@@ -2,7 +2,7 @@ This is a research project created for partial fulfillment of the requirements f
 Using an Opportunistic Crime Security Game". A scheduling program and a simulation are developed for this study, which aims to utilize game theory as an aid in deploying patrol units. Patrols movement must be effective without creating predictable patterns. 
 
 Technologies used:
-- Java
+- Java version 11
 - MASON (a Java-based Agent Simulation model)
 - Opportunistic Crime Security Game (OCSG) model
-- GIS data+
+- GIS data
